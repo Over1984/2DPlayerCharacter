@@ -10,6 +10,8 @@ $RECYCLE.BIN/
 
 # Folder
 $Library/ShaderCache/
+Library/ShaderCache/
+Library/metadata/
 
 # Windows Installer files
 *.cab
