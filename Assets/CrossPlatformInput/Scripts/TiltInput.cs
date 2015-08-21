@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace UnityStandardAssets.CrossPlatformInput
+namespace CrossPlatformInput
 {
     // helps with managing tilt input on mobile devices
     public class TiltInput : MonoBehaviour
@@ -98,7 +98,7 @@ namespace UnityStandardAssets.CrossPlatformInput
 }
 
 
-namespace UnityStandardAssets.CrossPlatformInput.Inspector
+namespace CrossPlatformInput.Inspector
 {
 #if UNITY_EDITOR
     [CustomPropertyDrawer(typeof (TiltInput.AxisMapping))]

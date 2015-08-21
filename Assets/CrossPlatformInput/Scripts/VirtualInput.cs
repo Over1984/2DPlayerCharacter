@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace UnityStandardAssets.CrossPlatformInput
+namespace CrossPlatformInput
 {
     public abstract class VirtualInput
     {

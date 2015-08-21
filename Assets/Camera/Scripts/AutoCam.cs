@@ -4,7 +4,7 @@ using UnityEngine;
 
 #endif
 
-namespace UnityStandardAssets.Cameras
+namespace Cameras
 {
     [ExecuteInEditMode]
     public class AutoCam : PivotBasedCameraRig

@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace UnityStandardAssets.Utility
+namespace Utility
 {
 #if UNITY_EDITOR
 

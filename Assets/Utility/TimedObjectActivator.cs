@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-namespace UnityStandardAssets.Utility
+namespace Utility
 {
     public class TimedObjectActivator : MonoBehaviour
     {
@@ -85,7 +85,7 @@ namespace UnityStandardAssets.Utility
 }
 
 
-namespace UnityStandardAssets.Utility.Inspector
+namespace Utility.Inspector
 {
 #if UNITY_EDITOR
     [CustomPropertyDrawer(typeof (TimedObjectActivator.Entries))]

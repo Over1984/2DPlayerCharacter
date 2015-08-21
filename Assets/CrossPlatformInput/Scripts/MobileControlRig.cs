@@ -6,7 +6,7 @@ using UnityEngine;
 
 using UnityEngine.UI;
 
-namespace UnityStandardAssets.CrossPlatformInput
+namespace CrossPlatformInput
 {
     [ExecuteInEditMode]
     public class MobileControlRig : MonoBehaviour

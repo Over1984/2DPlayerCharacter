@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 
-namespace UnityStandardAssets.Utility
+namespace Utility
 {
     public class FollowTarget : MonoBehaviour
     {

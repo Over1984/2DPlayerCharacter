@@ -1,6 +1,6 @@
 using System;
 using UnityEngine;
-using UnityStandardAssets.CrossPlatformInput;
+using CrossPlatformInput;
 
 [RequireComponent(typeof (GUITexture))]
 public class ForcedReset : MonoBehaviour

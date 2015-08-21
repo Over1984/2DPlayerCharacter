@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-namespace UnityStandardAssets.CrossPlatformInput
+namespace CrossPlatformInput
 {
 	public class Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, IDragHandler
 	{

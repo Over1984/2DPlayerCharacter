@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 
 
-namespace UnityStandardAssets.Utility
+namespace Utility
 {
     [Serializable]
     public class CurveControlledBob
