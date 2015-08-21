@@ -4,6 +4,7 @@ using UnityEditor;
 #endif
 using UnityEngine;
 
+using UnityEngine.UI;
 
 namespace UnityStandardAssets.CrossPlatformInput
 {
