@@ -48,9 +48,17 @@
   <ItemGroup>
      <Compile Include="Assets\2DCharacter\Scripts\Camera2DFollow.cs" />
      <Compile Include="Assets\2DCharacter\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\2DCharacter\Scripts\Destroyer.cs" />
+     <Compile Include="Assets\2DCharacter\Scripts\Gun.cs" />
      <Compile Include="Assets\2DCharacter\Scripts\Platformer2DUserControl.cs" />
      <Compile Include="Assets\2DCharacter\Scripts\PlatformerCharacter2D.cs" />
+     <Compile Include="Assets\2DCharacter\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\2DCharacter\Scripts\Restarter.cs" />
+     <Compile Include="Assets\2DCharacter\Scripts\Rocket.cs" />
+     <Compile Include="Assets\2DCharacter\Scripts\Score.cs" />
+     <Compile Include="Assets\2DCharacter\Scripts\ScoreShadow.cs" />
+     <Compile Include="Assets\2DCharacter\Scripts\SetParticleSortingLayer.cs" />
+     <Compile Include="Assets\2DCharacter\Scripts\Spawner.cs" />
      <Compile Include="Assets\Camera\Scripts\AbstractTargetFollower.cs" />
      <Compile Include="Assets\Camera\Scripts\AutoCam.cs" />
      <Compile Include="Assets\Camera\Scripts\PivotBasedCameraRig.cs" />

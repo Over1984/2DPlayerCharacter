@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Utility\ActivateTrigger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\PEProcGen\Assets\Sample Assets\Cross Platform Input\Scripts\Editor\CrossPlatformInputInitialize.cs">
     <Files>
-      <File FileName="Assets\Utility\ActivateTrigger.cs" Line="5" Column="11" />
+      <File FileName="..\PEProcGen\Assets\Sample Assets\Cross Platform Input\Scripts\Editor\CrossPlatformInputInitialize.cs" Line="80" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
